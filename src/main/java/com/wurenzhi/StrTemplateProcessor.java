@@ -1,5 +1,6 @@
 package com.wurenzhi;
 
+import com.google.auto.service.AutoService;
 import com.sun.tools.javac.api.JavacTrees;
 import com.sun.tools.javac.processing.JavacProcessingEnvironment;
 import com.sun.tools.javac.tree.JCTree;
@@ -21,6 +22,7 @@ import java.util.regex.Pattern;
 /**
  * 编译器重写
  */
+@AutoService(Processor.class)
 @SupportedSourceVersion(SourceVersion.RELEASE_8)
 @SupportedAnnotationTypes("com.wurenzhi.StrTemplate")
 public class StrTemplateProcessor extends AbstractProcessor {

@@ -18,5 +18,10 @@
             <scope>system</scope>
             <systemPath>C:/cccccc/java/jdk8/lib/tools.jar</systemPath>
         </dependency>
+        <dependency>
+            <groupId>com.google.auto.service</groupId>
+            <artifactId>auto-service</artifactId>
+            <version>1.0-rc5</version>
+        </dependency>
     </dependencies>
 </project>
