@@ -3,7 +3,6 @@ java字符串模板
 使用方法:
 
 1. 引入依赖
-依赖在阿里云私服,github的依赖挂了,头痛中,所以现在没法用
 ```
 <dependency>
     <groupId>com.wurenzhi</groupId>
