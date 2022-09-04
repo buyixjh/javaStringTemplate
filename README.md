@@ -1,5 +1,38 @@
 # string_template
-## java字符串模板
+## english doc
+
+[Click here to view the schematic diagram](https://wurenzhi.com/resource/pic.png)
+
+Instructions:
+
+1. Introduce dependencies (if the third-party warehouse fails, please use the central warehouse)
+````
+<dependency>
+     <groupId>com.wurenzhi</groupId>
+     <artifactId>string_template</artifactId>
+     <version>2.0.0</version>
+</dependency>
+````
+
+2. Set compile options
+idea:
+Settings --> Build, Execution, Deployment --> Compiler --> Shared build process VM options:
+````
+-Djps.track.ap.dependencies=false
+````
+
+3. Add annotations to class files that need to use string templates
+````
+@StringTemplate
+public class Test {
+     //some code
+}
+````
+
+4. Recompile the project (it only needs to be recompiled once after the introduction, and it will be automatically compiled later)
+
+
+## 中文文档
 
 [点此查看示意图](https://wurenzhi.com/resource/pic.png)
 
