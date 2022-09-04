@@ -1,9 +1,10 @@
 # string_template
 ## english doc
 
-[Click here to view the schematic diagram](https://wurenzhi.com/resource/pic.png)
+### sketch map:
+<img src="https://wurenzhi.com/resource/pic.png" width="800"  alt="支付宝小程序"/><br/>
 
-Instructions:
+### Instructions:
 
 1. Introduce dependencies (if the third-party warehouse fails, please use the central warehouse)
 ````
@@ -31,12 +32,12 @@ public class Test {
 
 4. Recompile the project (it only needs to be recompiled once after the introduction, and it will be automatically compiled later)
 
+code_url:
+![code_url](https://wurenzhi.com/resource/github_qr.png)
 
 ## 中文文档
 
-[点此查看示意图](https://wurenzhi.com/resource/pic.png)
-
-使用方法:
+### 使用方法:
 
 1. 引入依赖(第三方仓库如果失败,请使用中央仓库)
 ```
