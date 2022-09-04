@@ -1,8 +1,9 @@
 # string_template
-## english doc
 
 ### sketch map:
-<img src="https://wurenzhi.com/resource/pic.png" width="800"  alt="支付宝小程序"/><br/>
+<img src="https://wurenzhi.com/resource/pic2.png" width="500"  alt="支付宝小程序"/><br/>
+
+## english doc
 
 ### Instructions:
 
@@ -31,9 +32,6 @@ public class Test {
 ````
 
 4. Recompile the project (it only needs to be recompiled once after the introduction, and it will be automatically compiled later)
-
-code_url:
-![code_url](https://wurenzhi.com/resource/github_qr.png)
 
 ## 中文文档
 
@@ -64,3 +62,7 @@ public class Test {
 ```
 
 4. 重新编译项目(仅在引入后需要重新编译一次,后续会自动编译)
+
+### code_url:
+![code_url](https://wurenzhi.com/resource/github_qr.png)
+
